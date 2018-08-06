@@ -6,7 +6,7 @@
 
 ## Contribute to this Awesome list
 
-Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/awesome-vue-storefront/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/frqnck/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
+Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/awesome-vue-storefront/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/frqnck/awesome-vue-storefront/blob/master/CODE-OF-CONDUCT.md) for details.
 
 
 ## Contents
