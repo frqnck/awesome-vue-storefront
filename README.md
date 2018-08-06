@@ -12,8 +12,6 @@
 
 ## Contents
 
-- [Awesome Vue Storefront ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-vue-storefront-awesomehttpsgithubcomsindresorhusawesome)
-  - [Contents](#contents)
   - [Resources for Vue Storefront](#resources-for-vue-storefront)
     - [Official Resources](#official-resources)
       - [Github Repos](#github-repos)
@@ -40,12 +38,12 @@
   - [Youtube Channel](https://www.youtube.com/channel/UCkm1F3Cglty3CE1QwKQUhhg)
   - [Slack Channel](https://vuestorefront.slack.com)
 #### Github Repos
-  - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - Main project which holds most of the documentation.
+  - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The main project which holds most of the documentation.
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
   - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
   - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge. 
   - [pimcore2vuestorefront](https://github.com/DivanteLtd/pimcore2vuestorefront) - Pimcore data bridge.
-  - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate)
+  - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
 
 ### External Resources
 
@@ -59,7 +57,7 @@
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
   - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
   - [Stripe Payment Extension](https://github.com/develodesign/vsf-payment-stripe)
-  - [Stripe Extension](https://github.com/develodesign/vue-storefront-stripe) - Not sure diff with the above?
+  - [Stripe Extension](https://github.com/develodesign/vue-storefront-stripe) - Not sure diff with the one above?
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination)
 
 #### Back-End (API) Extensions
