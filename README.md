@@ -1,17 +1,17 @@
-<p align="center">
-  <br>
-  <img width="400" src="./logo.svg" alt="logo of awesome-vue-storefront repository">
-  <br>
-  <br>
-</p>
 
 # Awesome Vue Storefront [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Vue Storefront.
 
 
+## Contribute to this Awesome list
+
+Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/awesome-vue-storefront/blob/master/CONTRIBUTING.md) and [CODE-OF-CONDUCT](https://github.com/frqnck/awesome-php/blob/master/CODE-OF-CONDUCT.md) for details.
+
+
 ## Contents
 
+  - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
   - [Resources for Vue Storefront](#resources-for-vue-storefront)
     - [Official Resources](#official-resources)
       - [Github Repos](#github-repos)
@@ -24,7 +24,6 @@
   - [Projects/Sites Using Vue Storefront](#projectssites-using-vue-storefront)
     - [Demos/Examples](#demosexamples)
     - [Apps/Websites](#appswebsites)
-  - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
   - [License](#license)
 
 
@@ -85,11 +84,6 @@
 ### Apps/Websites
   - [La Nature](https://lanature.ru)
   - [CucinaBarilla](https://www.cucinabarilla.it)
-
-
-## Contribute to this Awesome list
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
