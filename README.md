@@ -78,7 +78,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 
 ### Demos/Examples
   - [Official Vue Storefront demo](https://demo.vuestorefront.io)
-  - [Official Magento2 demo](https://magento2-demo.vuestorefront.io)
+  - [Official Magento2 demo](https://demo-magento2.vuestorefront.io)
   - [Go Get Gold](http://gogetgold.com) - Based on version 0.3.0 (old and out of date).
   - [Plasma Visie](https://demo.mage-pwa.io)
 
