@@ -56,7 +56,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
   - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
   - [Stripe Payment Extension](https://github.com/develodesign/vsf-payment-stripe)
-  - [Stripe Extension](https://github.com/develodesign/vue-storefront-stripe) - Not sure diff with the one above?
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination)
 
 #### Back-End (API) Extensions
