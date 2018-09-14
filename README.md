@@ -82,6 +82,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Plasma Visie](https://demo.mage-pwa.io)
 
 ### Apps/Websites
+  - [Special](https://www.specialmilano.com/)
   - [La Nature](https://lanature.ru)
   - [CucinaBarilla](https://www.cucinabarilla.it)
 
