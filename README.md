@@ -85,8 +85,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### Apps/Websites
   - [Special](https://www.specialmilano.com/)
   - [La Nature](https://lanature.ru)
+  - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
-
 
 ## License
 
