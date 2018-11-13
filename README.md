@@ -87,6 +87,11 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [La Nature](https://lanature.ru)
   - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
+  - [Ribatex](https://ribatex.se/)
+  - [Malianta](https://malianta.eu/)
+  - [DWShop](https://dwshop.pl/)
+  
+  If you are creator of VS shop fell free to propose a PR
 
 ## License
 
