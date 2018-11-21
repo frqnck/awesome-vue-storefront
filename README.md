@@ -86,6 +86,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Special](https://www.specialmilano.com/)
   - [La Nature](https://lanature.ru)
   - [The Hour Glass](https://nomosreddot.thehourglass.com/)
+  - [One Open Sky](https://www.oneopensky.dk/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.eu/)
