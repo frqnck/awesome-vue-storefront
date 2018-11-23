@@ -89,7 +89,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [One Open Sky](https://www.oneopensky.dk/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [Ribatex](https://ribatex.se/)
-  - [Malianta](https://malianta.eu/)
+  - [Malianta](https://malianta.com/)
   - [DWShop](https://dwshop.pl/)
   
   If you are creator of VS shop fell free to propose a PR
