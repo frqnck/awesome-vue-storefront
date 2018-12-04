@@ -91,6 +91,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.com/)
   - [DWShop](https://dwshop.pl/)
+  - [Flyn](https://flynwetsuits.com/)
   
   If you are creator of VS shop fell free to propose a PR
 
