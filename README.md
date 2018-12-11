@@ -85,13 +85,14 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### Apps/Websites
   - [Special](https://www.specialmilano.com/)
   - [La Nature](https://lanature.ru)
-  - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [One Open Sky](https://www.oneopensky.dk/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.com/)
+  - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [DWShop](https://dwshop.pl/)
   - [Flyn](https://flynwetsuits.com/)
+  - [Agregatoreat](https://agregatoreat.ru/)
   
   If you are creator of VS shop fell free to propose a PR
 
