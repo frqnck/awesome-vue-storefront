@@ -59,7 +59,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination)
 
 #### Back-End (API) Extensions
-  - [Paypal payment API](https://github.com/develodesign/vsf-payment-paypal-api)
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
 
 #### Misc Extensions
