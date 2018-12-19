@@ -87,7 +87,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [La Nature](https://lanature.ru)
   - [One Open Sky](https://www.oneopensky.dk/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
-  = [Wonect](https://wonect.com/sg/)
+  - [Wonect](https://wonect.com/sg/)
   - [DWShop](https://dwshop.pl/)
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.com/)
