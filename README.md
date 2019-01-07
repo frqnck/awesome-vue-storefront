@@ -58,7 +58,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
   - [Braintree payment module](https://github.com/danrcoull/vsf-payment-braintree)
   - [Stripe Payment Extension](https://github.com/develodesign/vsf-payment-stripe)
-  - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination)
+  - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination) (for older versions)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
