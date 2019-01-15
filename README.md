@@ -41,8 +41,9 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
   - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
   - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge. 
-  - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront)
+  - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
   - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
+  - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - WooCommerce data bridge
   - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
 
 ### External Resources
