@@ -95,7 +95,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Malianta](https://malianta.com/)
   - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [Flyn](https://flynwetsuits.com/)
-  - [Kubota](https://www.kubotastore.pl/)
   - [Agregatoreat](https://agregatoreat.ru/)
   
   If you are creator of VS shop fell free to propose a PR
