@@ -88,6 +88,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Special](https://www.specialmilano.com/)
   - [La Nature](https://lanature.ru)
   - [One Open Sky](https://www.oneopensky.dk/)
+  - [Maxxium](https://maxxium.ru/presents)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [Wonect](https://wonect.com/sg/)
   - [DWShop](https://dwshop.pl/)
