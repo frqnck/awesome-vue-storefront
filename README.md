@@ -54,7 +54,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [The Hour Glass](https://github.com/thanhcao/vue-storefront-demo) - This seems to be a trial.
 
 #### Front-End Extensions
-  - [External Checkout](https://github.com/filrak/vsf-external-checkout)
+  - [External Checkout](https://github.com/Vendic/vsf-external-checkout)
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
   - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
   - [Braintree payment module](https://github.com/danrcoull/vsf-payment-braintree)
