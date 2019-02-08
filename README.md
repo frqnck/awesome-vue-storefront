@@ -57,6 +57,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [External Checkout](https://github.com/filrak/vsf-external-checkout)
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
   - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
+  - [Adyen payment module](https://github.com/melvin-hamilton-digital/vsf-payment-adyen)
   - [Braintree payment module](https://github.com/danrcoull/vsf-payment-braintree)
   - [Stripe Payment module](https://github.com/develodesign/vsf-payment-stripe) (1.0.0 for old version, and start from 2.0.0 for new versions of `VSF`)
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination) (for older versions)
