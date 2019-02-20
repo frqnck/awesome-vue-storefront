@@ -43,6 +43,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge. 
   - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
   - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
+  - [django-oscar-api-vue-storefront](https://github.com/ladrua/django-oscar-api-vue-storefront)
   - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - WooCommerce data bridge
   - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
 
