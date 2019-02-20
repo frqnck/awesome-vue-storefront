@@ -45,6 +45,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
   - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - WooCommerce data bridge
   - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
+  - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento2 API for reviews!
+  - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
 
 ### External Resources
 
