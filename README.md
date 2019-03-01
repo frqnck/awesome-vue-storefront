@@ -101,6 +101,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Flyn](https://flynwetsuits.com/)
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
+  - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
   
   If you are creator of VS shop fell free to propose a PR
 
