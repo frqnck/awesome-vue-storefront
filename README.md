@@ -64,6 +64,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Braintree payment module](https://github.com/danrcoull/vsf-payment-braintree)
   - [Stripe Payment module](https://github.com/develodesign/vsf-payment-stripe) (1.0.0 for old version, and start from 2.0.0 for new versions of `VSF`)
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination) (for older versions)
+  - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
+  - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
