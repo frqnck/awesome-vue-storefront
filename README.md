@@ -39,6 +39,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 #### Github Repos
   - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The main project which holds most of the documentation.
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
+  - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration
   - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
   - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge. 
   - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
@@ -66,9 +67,12 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination) (for older versions)
   - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
   - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
+  - [Wordpress module](https://github.com/develodesign/vsf-wp)
+  - [Storyblok module (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
+  - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
 
 #### Misc Extensions
   - [ESLint rules](https://github.com/DavidRouyer/eslint-plugin-vue-storefront)
@@ -103,6 +107,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Flyn](https://flynwetsuits.com/)
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
+  - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
   
   If you are creator of VS shop fell free to propose a PR
 
