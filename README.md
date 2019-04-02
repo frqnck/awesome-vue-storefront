@@ -70,10 +70,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
-
-#### Misc Extensions
-  - [ESLint rules](https://github.com/DavidRouyer/eslint-plugin-vue-storefront)
-
+  
 ### Tutorials
   - [Introductio to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
