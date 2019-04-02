@@ -53,22 +53,19 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### External Resources
 
 #### Front-End Themes
-  - [Infinite Scroll](https://github.com/woked/vue-storefront-infinite-scroll-theme)
-  - [Coat](https://github.com/dimasch/vsf-theme-coat) - Extending atomic concept with Utility-First Tailwindcss and styleguide out of the box
-  - [The Hour Glass](https://github.com/thanhcao/vue-storefront-demo) - This seems to be a trial.
+  - [Vuetique](https://vuetique.io/)
 
-#### Front-End Extensions
+#### Front-End Modules
   - [External Checkout](https://github.com/Vendic/vsf-external-checkout)
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
-  - [Paypal payment module](https://github.com/develodesign/vsf-payment-paypal)
-  - [Adyen payment module](https://github.com/melvin-hamilton-digital/vsf-payment-adyen)
-  - [Braintree payment module](https://github.com/danrcoull/vsf-payment-braintree)
-  - [Stripe Payment module](https://github.com/develodesign/vsf-payment-stripe) (1.0.0 for old version, and start from 2.0.0 for new versions of `VSF`)
-  - [Pagination extension](https://github.com/bitbull-team/vue-storefront-pagination) (for older versions)
+  - [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
+  - [Adyen payment integration](https://github.com/melvin-hamilton-digital/vsf-payment-adyen)
+  - [Braintree payment integration](https://github.com/danrcoull/vsf-payment-braintree)
+  - [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) (1.0.0 for old version, and start from 2.0.0 for new versions of `VSF`)
   - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
   - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
-  - [Wordpress module](https://github.com/develodesign/vsf-wp)
-  - [Storyblok module (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
+  - [Wordpress intergation](https://github.com/develodesign/vsf-wp)
+  - [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
@@ -78,12 +75,9 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [ESLint rules](https://github.com/DavidRouyer/eslint-plugin-vue-storefront)
 
 ### Tutorials
-  - [How to install and integrate with Magento2](https://medium.com/@piotrkarwatka/vue-storefront-how-to-install-and-integrate-with-magento2-227767dd65b2) - Published 31-Jan-2018
-  - [Vue Storefront Basics](https://www.slideshare.net/FilipRakowski/vue-storefront-basics) -  Slides published 26-Feb-2018
-  - [Cart, totals, orders integration with Magento2](https://medium.com/@piotrkarwatka/vue-storefront-cart-totals-orders-integration-with-magento2-6fbe6860fcd) - Published 5-Mar-2018 
-  - [Creating themes Part 1](https://medium.com/@frakowski/developing-themes-in-vue-storefront-backend-agnostic-ecommerce-pwa-frontend-part-1-72ea3c939593) - Understanding Vue Storefront core
-  - [Creating themes Part 2](https://medium.com/@frakowski/creating-themes-in-vue-storefront-part-2-vue-storefront-themes-in-depth-6fe28dee3e40) - Vue Storefront themes in depth + setting up new theme.
-
+  - [Introductio to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
+  - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
+  = [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
 ##  Projects/Sites Using Vue Storefront
 
