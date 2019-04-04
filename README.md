@@ -66,7 +66,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
   - [Wordpress intergation](https://github.com/develodesign/vsf-wp)
   - [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
-  - [Facebbok Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
+  - [Facebook Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
