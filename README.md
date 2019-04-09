@@ -86,11 +86,13 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Plasma Visie](https://demo.mage-pwa.io)
 
 ### Apps/Websites
-  - [Special](https://www.specialmilano.com/)
-  - [La Nature](https://lanature.ru)
+  - [Damian](https://sklep.damian.pl/)
   - [One Open Sky](https://www.oneopensky.dk/)
   - [Maxxium](https://maxxium.ru/presents)
+  - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
+  - [Special](https://www.specialmilano.com/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
+  - [La Nature](https://lanature.ru)
   - [Wonect](https://wonect.com/sg/)
   - [DWShop](https://dwshop.pl/)
   - [Ribatex](https://ribatex.se/)
@@ -99,7 +101,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Flyn](https://flynwetsuits.com/)
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
-  - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
   
   If you are creator of VS shop fell free to propose a PR
 
