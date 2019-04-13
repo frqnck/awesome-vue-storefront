@@ -68,6 +68,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
   - [Facebook Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
   - [Request for quotation (RFQ) integration](https://github.com/Interactivated/vsf-wholesale-request)
+  - [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
