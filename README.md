@@ -89,10 +89,12 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Plasma Visie](https://demo.mage-pwa.io)
 
 ### Apps/Websites
-  - [Damian](https://sklep.damian.pl/)
-  - [One Open Sky](https://www.oneopensky.dk/)
+
+  - [Kentaur](https://www.kentaur.com)
   - [Maxxium](https://maxxium.ru/presents)
   - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
+  - [Damian](https://sklep.damian.pl/)
+  - [One Open Sky](https://www.oneopensky.dk/)
   - [Special](https://www.specialmilano.com/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [La Nature](https://lanature.ru)
