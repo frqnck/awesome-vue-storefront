@@ -99,6 +99,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [La Nature](https://lanature.ru)
   - [Wonect](https://wonect.com/sg/)
+  - [Kubota](https://kubotastore.pl/)
   - [DWShop](https://dwshop.pl/)
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.com/)
