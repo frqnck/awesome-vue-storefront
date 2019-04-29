@@ -107,6 +107,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Flyn](https://flynwetsuits.com/)
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
+  - [Meubelplaats](https://www.meubelplaats.nl/)
   
   If you are creator of VS shop fell free to propose a PR
 
