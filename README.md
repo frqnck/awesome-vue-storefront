@@ -66,6 +66,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
   - [Wordpress intergation](https://github.com/develodesign/vsf-wp)
   - [Storyblok integration (visual editor)](https://github.com/kodbruket/vsf-storyblok-sync)
+  - [Mouseflow integration](https://github.com/cnviradiya/vsf-mouseflow)
   - [Facebook Pixel](https://github.com/new-fantastic/vsf-facebook-pixel)
   - [Request for quotation (RFQ) integration](https://github.com/Interactivated/vsf-wholesale-request)
   - [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
