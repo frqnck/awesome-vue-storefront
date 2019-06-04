@@ -105,7 +105,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [DWShop](https://dwshop.pl/)
   - [Ribatex](https://ribatex.se/)
   - [Malianta](https://malianta.com/)
-  - [The Hour Glass](https://nomosreddot.thehourglass.com/)
   - [Flyn](https://flynwetsuits.com/)
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
