@@ -86,7 +86,6 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### Demos/Examples
   - [Official Vue Storefront demo](https://demo.vuestorefront.io)
   - [MR by Get_Noticed](https://ecommerce-pwa.io/)
-  - [Official Magento2 demo](https://demo-magento2.vuestorefront.io)
   - [Plasma Visie](https://demo.mage-pwa.io)
 
 ### Apps/Websites
