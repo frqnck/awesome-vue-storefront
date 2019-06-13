@@ -73,6 +73,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
   - [Intercom integration](https://github.com/develodesign/vsf-intercom)
   - [Facebook Messenger integration](https://github.com/2monkey/vue-storefront-fb-messenger)
+  - [URL Mapping fallback](https://github.com/kodbruket/vsf-mapping-fallback/)
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
