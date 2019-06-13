@@ -96,6 +96,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Kentaur](https://www.kentaur.com)
   - [Llebefieber](https://www.klebefieber.de/)
   - [Maxxium](https://maxxium.ru/presents)
+  - [Majorrum](https://www.majorrum.com/)
   - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
   - [Damian](https://sklep.damian.pl/)
   - [One Open Sky](https://www.oneopensky.dk/)
