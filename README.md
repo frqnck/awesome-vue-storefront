@@ -95,7 +95,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### Apps/Websites
 
   - [Kentaur](https://www.kentaur.com)
-  - [Llebefieber](https://www.klebefieber.de/)
+  - [Klebefieber](https://www.klebefieber.de/)
   - [Maxxium](https://maxxium.ru/presents)
   - [Majorrum](https://www.majorrum.com/)
   - [MyHealthCare](https://www.myhealthcares.eu/eu-int)
