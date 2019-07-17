@@ -50,6 +50,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
   - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento2 API for reviews!
   - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
+  - [magento2-vsbridge-indexer](https://github.com/DivanteLtd/magento2-vsbridge-indexer) - Magento 2 native data bridge indexer.
 
 ### External Resources
 
@@ -83,7 +84,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ### Tutorials
   - [Introductio to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
-  = [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
+  - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
 ##  Projects/Sites Using Vue Storefront
 
@@ -103,7 +104,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [One Open Sky](https://www.oneopensky.dk/)
   - [Special](https://www.specialmilano.com/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
-  = [212Performance](https://www.212performance.com/)
+  - [212Performance](https://www.212performance.com/)
   - [La Nature](https://lanature.ru)
   - [Wonect](https://wonect.com/sg/)
   - [Kubota](https://kubotastore.pl/)
