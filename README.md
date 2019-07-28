@@ -14,7 +14,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
   - [Resources for Vue Storefront](#resources-for-vue-storefront)
     - [Official Resources](#official-resources)
-      - [Github Repos](#github-repos)
+      - [GitHub Repos](#github-repos)
     - [External Resources](#external-resources)
       - [Front-End Themes](#front-end-themes)
       - [Front-End Extensions](#front-end-extensions)
@@ -81,7 +81,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
 
 ### Tutorials
-  - [Introductio to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
+  - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
   - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
