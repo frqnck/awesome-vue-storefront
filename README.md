@@ -114,7 +114,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [SoBored](https://soboredclub.com)
   - [Agregatoreat](https://agregatoreat.ru/)
   - [Meubelplaats](https://www.meubelplaats.nl/)
-  
+  - [Klikis](https://klikis.com_
   If you are creator of VS shop fell free to propose a PR
 
 ## License
