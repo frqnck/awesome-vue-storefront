@@ -41,7 +41,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
   - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration
   - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
-  - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge. 
+  - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge.
   - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
   - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
   - [django-oscar-api-vue-storefront](https://github.com/ladrua/django-oscar-api-vue-storefront)
@@ -74,6 +74,8 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
   - [Intercom integration](https://github.com/develodesign/vsf-intercom)
   - [URL Mapping fallback](https://github.com/kodbruket/vsf-mapping-fallback/)
+  - [Google Invisible reCAPTCHA integration](https://github.com/aureatelabs/vsf-google-recaptcha/)
+  - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
@@ -81,7 +83,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 ](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
 
 ### Tutorials
-  - [Introductio to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
+  - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
   - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
