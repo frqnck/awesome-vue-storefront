@@ -14,7 +14,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
   - [Resources for Vue Storefront](#resources-for-vue-storefront)
     - [Official Resources](#official-resources)
-      - [Github Repos](#github-repos)
+      - [GitHub Repos](#github-repos)
     - [External Resources](#external-resources)
       - [Front-End Themes](#front-end-themes)
       - [Front-End Extensions](#front-end-extensions)
