@@ -105,6 +105,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Damian](https://sklep.damian.pl/)
   - [One Open Sky](https://www.oneopensky.dk/)
   - [Special](https://www.specialmilano.com/)
+  - [Vendella](https://www.vendella.co.nz/)
   - [CucinaBarilla](https://www.cucinabarilla.it)
   - [212Performance](https://www.212performance.com/)
   - [La Nature](https://lanature.ru)
