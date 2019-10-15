@@ -57,7 +57,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 #### Front-End Themes
   - [Vuetique](https://vuetique.io/)
 
-#### Front-End Modules
+#### Front-End Extensions
   - [External Checkout](https://github.com/Vendic/vsf-external-checkout)
   - [Magento External Checkout](https://github.com/DivanteLtd/magento2-external-checkout)
   - [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
