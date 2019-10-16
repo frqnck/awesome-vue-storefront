@@ -82,6 +82,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Request for quotation (RFQ) integration](https://github.com/Interactivated/vsf-wholesale-request)
   - [Layered Navigation with Multiselect filters and Price Slider](https://github.com/GetNoticedNL/vsf-layered-navigation)
   - [Intercom integration](https://github.com/develodesign/vsf-intercom)
+  - [Tawk.to integration](https://github.com/razzul/vsf-tawk)
   - [URL Mapping fallback](https://github.com/kodbruket/vsf-mapping-fallback/)
   - [Google Invisible reCAPTCHA integration](https://github.com/aureatelabs/vsf-google-recaptcha/)
   - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
