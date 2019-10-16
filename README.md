@@ -37,6 +37,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Contribution Guide](https://github.com/DivanteLtd/vue-storefront/blob/master/CONTRIBUTING.md)
   - [Youtube Channel](https://www.youtube.com/channel/UCkm1F3Cglty3CE1QwKQUhhg)
   - [Slack Channel](https://vuestorefront.slack.com)
+  - [Official Demo](https://demo.storefrontcloud.io)
 
 #### Storefront UI
   - [Website](http://storefrontui.io/)
@@ -45,22 +46,17 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Discord server](https://discord.gg/GS8hqFS)
   - [Github](https://github.com/DivanteLtd/storefront-ui) – Official Github for Storfront UI
 
-#### Github Repos
+#### Official (Divante) Github Repos
   - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The main project which holds most of the documentation.
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
-  - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration
   - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
   - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge.
   - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
   - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
-  - [django-oscar-api-vue-storefront](https://github.com/ladrua/django-oscar-api-vue-storefront)
   - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - WooCommerce data bridge
-  - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
   - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
   - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento2 API for reviews!
-  - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
   - [magento2-vsbridge-indexer](https://github.com/DivanteLtd/magento2-vsbridge-indexer) - Magento 2 native data bridge indexer.
-  - [vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
 
 ### External Resources
 
@@ -89,11 +85,19 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
   - [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
   - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
+
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
   - [VueStorefront XML sitemap generator for Magento 2
 ](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
+  - [Django Oscar API layer](https://github.com/ladrua/django-oscar-api-vue-storefront) – API layer for django-oscar to vue-storefront
+  - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration (NO README?!?)
+  - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
+  - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
+  
+#### Tooling
+  - [Vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
 
 ### Tutorials
   - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
