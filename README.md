@@ -102,7 +102,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
 ### Tooling
-  - [Vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
+  - [Vagrant Environment with Magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Consistent and repeatable Magento 2 + VSF development environment.
 
 ##  Projects/Sites Using Vue Storefront
 
