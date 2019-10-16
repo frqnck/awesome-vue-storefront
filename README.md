@@ -14,6 +14,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Contribute to this Awesome list](#contribute-to-this-awesome-list)
   - [Resources for Vue Storefront](#resources-for-vue-storefront)
     - [Official Resources](#official-resources)
+      - [Storefront UI](#storefront-ui)
       - [GitHub Repos](#github-repos)
     - [External Resources](#external-resources)
       - [Front-End Themes](#front-end-themes)
@@ -36,6 +37,14 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Contribution Guide](https://github.com/DivanteLtd/vue-storefront/blob/master/CONTRIBUTING.md)
   - [Youtube Channel](https://www.youtube.com/channel/UCkm1F3Cglty3CE1QwKQUhhg)
   - [Slack Channel](https://vuestorefront.slack.com)
+
+#### Storefront UI
+  - [Website](http://storefrontui.io/)
+  - [Documentation](http://docs.storefrontui.io/)
+  - [Storybook](http://storybook.storefrontui.io/) – Components playground
+  - [Discord server](https://discord.gg/GS8hqFS)
+  - [Github](https://github.com/DivanteLtd/storefront-ui) – Official Github for Storfront UI
+
 #### Github Repos
   - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The main project which holds most of the documentation.
   - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
