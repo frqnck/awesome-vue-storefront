@@ -87,6 +87,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Google Invisible reCAPTCHA integration](https://github.com/aureatelabs/vsf-google-recaptcha/)
   - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
   - [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
+  - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
