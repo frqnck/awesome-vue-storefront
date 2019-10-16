@@ -96,13 +96,13 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
   - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
   
-#### Tooling
-  - [Vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
-
 ### Tutorials
   - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
   - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
+
+### Tooling
+  - [Vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
 
 ##  Projects/Sites Using Vue Storefront
 
