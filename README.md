@@ -60,6 +60,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento2 API for reviews!
   - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
   - [magento2-vsbridge-indexer](https://github.com/DivanteLtd/magento2-vsbridge-indexer) - Magento 2 native data bridge indexer.
+  - [vagrant environment with magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Using vagrant to fire up consistent and repeatable Magento 2 + vueStorefront development environment.
 
 ### External Resources
 
