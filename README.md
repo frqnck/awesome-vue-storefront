@@ -48,15 +48,15 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 
 #### Official (Divante) Github Repos
   - [vue-storefront](https://github.com/DivanteLtd/vue-storefront) - The main project which holds most of the documentation.
-  - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app.
-  - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge.
-  - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge.
+  - [vue-storefront-api](https://github.com/DivanteLtd/vue-storefront-api) - The API layer which provides the data to vue-storefront app
+  - [mage2vuestorefront](https://github.com/DivanteLtd/mage2vuestorefront) - Magento 2 data bridge
+  - [magento1-vsbridge](https://github.com/DivanteLtd/magento1-vsbridge) - Magento 1.9 data bridge
   - [bigcommerce2vuestorefront](https://github.com/DivanteLtd/bigcommerce2vuestorefront) - BigCommerce data bridge
-  - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge.
+  - [coreshop-vsbridge](https://github.com/DivanteLtd/coreshop-vsbridge) - Pimcore data bridge
   - [woocommerce2vuestorefront](https://github.com/DivanteLtd/woocommerce2vuestorefront) - WooCommerce data bridge
-  - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform.
-  - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento2 API for reviews!
-  - [magento2-vsbridge-indexer](https://github.com/DivanteLtd/magento2-vsbridge-indexer) - Magento 2 native data bridge indexer.
+  - [Integration boilerplate](https://github.com/DivanteLtd/vue-storefront-integration-boilerplate) - Boilerplate to add additional 3rd party platform
+  - [magento2-review-api](https://github.com/DivanteLtd/magento2-review-api) - Long awaited Magento 2 API for reviews!
+  - [magento2-vsbridge-indexer](https://github.com/DivanteLtd/magento2-vsbridge-indexer) - Magento 2 native data bridge indexer
 
 ### External Resources
 
@@ -69,7 +69,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Paypal payment integration](https://github.com/develodesign/vsf-payment-paypal)
   - [Adyen payment integration](https://github.com/melvin-hamilton-digital/vsf-payment-adyen)
   - [Braintree payment integration](https://github.com/danrcoull/vsf-payment-braintree)
-  - [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) (1.0.0 for old version, and start from 2.0.0 for new versions of `VSF`)
+  - [Stripe Payment integration](https://github.com/develodesign/vsf-payment-stripe) – 1.0.0 for old version, and start from 2.0.0 for new versions of VSF
   - [Contentful integration](https://github.com/juliankoehn/vsf-contentful)
   - [Prismic integration](https://www.dnd.fr/2019/03/discover-our-new-connector-between-vue-storefront-and-prismic/)
   - [Wordpress intergation](https://github.com/develodesign/vsf-wp)
@@ -87,14 +87,14 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
 
 #### Back-End (API) Extensions
-  - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront.
+  - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
   - [Wordpress integration](https://github.com/develodesign/vsf-wp) - Wordpress integration
   - [VueStorefront XML sitemap generator for Magento 2
 ](https://github.com/Vendic/magento2-vuestorefront-xmlsitemap)
   - [Django Oscar API layer](https://github.com/ladrua/django-oscar-api-vue-storefront) – API layer for django-oscar to vue-storefront
   - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration (NO README?!?)
   - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
-  - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered.
+  - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered
   
 ### Tutorials
   - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
@@ -102,7 +102,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Developing a Vue Storefront payment module](https://www.develodesign.co.uk/news/development-of-the-paypal-module-for-vue-storefront/#.XCoa2h2Mmmo.twitter)
 
 ### Tooling
-  - [Vagrant Environment with Magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Consistent and repeatable Magento 2 + VSF development environment.
+  - [Vagrant Environment with Magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Consistent and repeatable Magento 2 + VSF development environment
 
 ##  Projects/Sites Using Vue Storefront
 
