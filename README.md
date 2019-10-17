@@ -18,7 +18,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
       - [GitHub Repos](#github-repos)
     - [External Resources](#external-resources)
       - [Front-End Themes](#front-end-themes)
-      - [Front-End Extensions](#front-end-extensions)
+      - [Front-End Modules](#Front-End Modules)
       - [Back-End (API) Extensions](#back-end-api-extensions)
       - [Misc Extensions](#misc-extensions)
     - [Tutorials](#tutorials)
