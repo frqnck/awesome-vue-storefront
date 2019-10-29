@@ -136,6 +136,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Meubelplaats](https://www.meubelplaats.nl/)
   - [Klikis](https://klikis.com)
   - [Bare Blends](https://bareblends.com.au)
+  - [Samyakk](https://www.samyakk.com)
   If you are creator of VS shop fell free to propose a PR
 
 ## License
