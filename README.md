@@ -140,7 +140,9 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [RakDistribution](https://www.rakdistribution.net/)
   - [IlluminatorLighting](https://www.illuminatorlighting.com/)
   - [EstWingGear](https://www.estwinggear.com/)
-
+  - [DewaltShelving](http://dewaltshelving.com)
+  - [DewaltWelding](http://dewaltwelding.com)
+  
   If you are creator of VS shop fell free to propose a PR
 
 ## License
