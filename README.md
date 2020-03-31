@@ -85,6 +85,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [Customer address book](https://github.com/aureatelabs/vsf-address-book/)
   - [Razorpay payment integration](https://github.com/aureatelabs/vsf-payment-razorpay/)
   - [Algolia Search integration (for search panel)](https://github.com/Interactivated/vsf-algolia-search)
+  - [Freshchat integration](https://github.com/aureatelabs/vsf-freshchat)
 
 #### Back-End (API) Extensions
   - [VoiceCommerce](https://github.com/upsidelab/voicecommerce) - Adds Alexa and Google Assistant to Vue Storefront
@@ -95,7 +96,7 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
   - [tb2vuestorefront](https://github.com/jankawulok/tb2vuestorefront) - Prestashop integration (NO README?!?)
   - [odoo integration](https://github.com/cristian-g/vsf-odoo) - Odoo integration for VSF
   - [magento2-cms-api](https://github.com/SnowdogApps/magento2-cms-api) - Custom CMS API endpoints which retrieves CMS pages and blocks filtered
-  
+
 ### Tutorials
   - [Introduction to Vue storefront](https://medium.com/the-vue-storefront-journal/introduction-to-vue-storefront-a-quick-getting-started-guide-d119023ed67d)
   - [How to create an Instagram Feed module for Vue Storefront](https://itnext.io/how-to-create-an-instagram-feed-module-for-vue-storefront-eaa03019b288)
