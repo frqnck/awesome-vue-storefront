@@ -103,6 +103,9 @@ Contributions welcome! Please see [CONTRIBUTING](https://github.com/frqnck/aweso
 
 ### Tooling
   - [Vagrant Environment with Magento 2](https://github.com/ProxiBlue/vagrant_m2_vuestorefront) - Consistent and repeatable Magento 2 + VSF development environment
+  - [Configuration Validator](https://github.com/yireo/vsf-config-validator) - A simple PHP CLI tool to check whether your Vue Storefront PWA configuration matches the structure of your Magento 1 or 2 site
+  - [vsf-yireo-theme](https://github.com/yireo-training/vsf-yireo-theme) - A sample theme that uses a Webpack configuration to allow for simple parent/child theming
+  - [vsf1-local-webpack](https://github.com/yireo-training/vsf1-local-webpack) - A Webpack configuration for local development that speeds up compilation time dramatically
 
 ##  Projects/Sites Using Vue Storefront
 
